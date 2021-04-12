@@ -2,3 +2,5 @@ name: nn_introduction
 dependencies:
   - numpy
   - matplotlib
+  - keras
+  - tensorflow
